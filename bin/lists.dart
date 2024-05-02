@@ -2,6 +2,7 @@ void main() {
   //Substring
   List<String> list = <String>["Lucas", "Jesus", "de", "Santana"];
   List<String> sublist = list.sublist(0, 2);
+  print(sublist);
   const String surname = "Santana";
 
   //forEach
